@@ -2,7 +2,7 @@
   "containerPort": 80,
   "dockerfilePath": "Dockerfile",
   "buildDir": "",
-  "minNum": 0,https://github.com/396020561/redis-docker/blob/master/container.config.json
+  "minNum": 0,
   "maxNum": 50,
   "cpu": 0.25,
   "mem": 0.5,
